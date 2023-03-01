@@ -1,0 +1,9 @@
+.header__link:hover{
+    color: red;
+}
+.nav__link:hover{
+    color: red;
+}
+.catalog__nav_item:hover{
+    opacity: 100%;   
+}
